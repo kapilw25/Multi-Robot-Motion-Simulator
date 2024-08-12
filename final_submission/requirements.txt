@@ -1,0 +1,6 @@
+numpy
+matplotlib
+networkx
+streamlit
+imageio[ffmpeg]
+# imageio-ffmpeg
